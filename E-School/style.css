@@ -1,0 +1,155 @@
+.btn{
+    margin-top: -9px; 
+    width: 104px; 
+    height: 43px; 
+    border-radius: 33px;
+    background-color:#21B573;
+    color:white;    
+}
+*{
+        font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+    
+}
+
+.btn1{
+    width: 153px;
+    height: 43px;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+    margin-top: 2%;
+    color:white;
+
+}
+h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.speci{
+    color:#21B573;
+}
+
+.sec2{
+    margin-top: 10%;
+}
+
+h5{
+    font-weight: 700;
+}
+
+h6{
+
+}
+
+.text{
+    /* padding-left: 15%; */
+    text-align: center;
+}
+
+.text2{
+   margin-top: -3%;
+   font-size: 13px;
+   text-align: center;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card img{
+    width: 80%;
+}
+
+.card-group{
+    margin-left:7% ;
+}
+
+.btn3{
+    width: 137px;
+    height: 35px;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+
+.card-body .btn3{
+  color: white;
+}
+
+.card-body {
+    margin-left: -4%;
+}
+
+p{
+    color: black;
+}
+
+.card-footer .col-6 img{
+    width: 15%;
+}
+
+.card2 h6{
+    font-size: 12px;
+}
+
+.foot-div{
+    margin-left: -4%;
+}
+
+.foot-div2{
+    margin-top: -11%;
+    margin-left:20%;
+}
+
+.foot-div3{
+    margin-left: 17%;
+}
+
+.imm{
+    width: 40%;
+}
+
+.test{
+    padding: 0 16%;
+    margin: ;
+}
+
+.pdiv{
+    text-align: left;
+    padding-top: 1%;
+}
+
+footer{
+    background-color: #413960;
+    width: 105%;
+    overflow: hidden;
+}
+
+footer p{
+    color: white;
+} 
+
+footer .row .col-6 p{
+    font-size: 16px;
+}
+
+footer h6{
+    font-size: 15px;
+    color: white;
+}
+
+footer h5{
+    font-size: 18px;
+    color: white;
+}
+
+.copyright{
+    text-align: center;
+}
