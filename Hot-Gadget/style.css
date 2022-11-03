@@ -1,0 +1,92 @@
+ul{
+    margin-left:50% ;
+}
+
+ul li{
+    padding-left: 15%;
+}
+
+h3{
+    color: black;
+}
+
+p{
+    color: gray;
+}
+
+button{
+    color: #fff;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 30px 12px 17px;    
+}
+
+.carousel-inner p{
+    text-align: justify;
+}
+
+.btn-slide{
+    background-color: gold !important;
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+}
+
+body{
+    /* background-color: aqua; */
+}
+
+.navbar-nav a{
+    color: black !important;
+}
+
+.div2 h6{
+    color:#FF9D00;
+    margin-top: 5px;
+    padding-left: 15px;
+}
+
+.img-fix{
+    width: 100%;
+}
+
+.card{
+    border: none;
+    text-align: center;
+}
+
+.card h5{
+    font-size: 15px;
+}
+
+.phn-div .row{
+    padding: 0 5%;
+}
+
+.card-footer{
+    border-top: none;
+    /* background-color: brown; */
+    padding: 0;
+}
+
+.card-footer button{
+    margin-top: 5px;
+}
+
+.cont{
+    margin-top: 10%;
+}
+
+.cont1{
+    text-align: center;
+}
+
+.line{
+    width: 8%;
+    height: 10px;
+    background-image: linear-gradient(to left, #FF9C35,#FFD019);
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 6px;
+
+}
